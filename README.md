@@ -1,2 +1,2 @@
-# Web-Clientes
-Web de gestión de clientes con PHP y Laravel
+# Web de Clientes
+Sitio de gestión de clientes realizado con PHP y Laravel
